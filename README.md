@@ -1,5 +1,6 @@
 # Vehicle-Counting-Model-Raspberry-Pi-TFLite
-![parking_02.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/3de099d9-93f3-4629-a573-b788330d4c5a/3f809c5f-ce44-4987-9df6-daf3d2c2c83b/parking_02.jpg)
+
+![이미지](https://github.com/user-attachments/assets/9ef55400-5c48-4401-9f86-e934ab98201c)
 
 - **프로젝트에 사용할 대표 이미지 (차량 예상 인식 수 2대)**
 
