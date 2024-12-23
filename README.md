@@ -379,7 +379,7 @@ cv2.destroyAllWindows()
 
 - 전체 탐지 및 처리에 걸린 시간을 측정해 출력
 
-### ***2.070 sec → 0.605 sec (감축  또 성공!!)***
+### ***2.070 sec → 0.598 sec (감축  또 성공!!)***
 
 https://github.com/user-attachments/assets/191413a5-41da-437e-a285-a78fdf3754e1
 
